@@ -2,7 +2,7 @@
 
 **Ders:** İşletim Sistemleri Dönem Projesi  
 **Teslim Tarihi:** 16 Aralık 2024  
-**Hazırlayan:** [ElIF UYAR ] - [ 2221221030 ]
+**Hazırlayan:** [ElIF UYAR ]
 
 ---
 
